@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Movies-Mosh/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Movies-Mosh/static/js/main.b00bee17.chunk.js",
+    "main.js.map": "/Movies-Mosh/static/js/main.b00bee17.chunk.js.map",
+    "runtime-main.js": "/Movies-Mosh/static/js/runtime-main.bbb30b8a.js",
+    "runtime-main.js.map": "/Movies-Mosh/static/js/runtime-main.bbb30b8a.js.map",
+    "static/js/2.30b11fbd.chunk.js": "/Movies-Mosh/static/js/2.30b11fbd.chunk.js",
+    "static/js/2.30b11fbd.chunk.js.map": "/Movies-Mosh/static/js/2.30b11fbd.chunk.js.map",
+    "static/js/3.cc51768a.chunk.js": "/Movies-Mosh/static/js/3.cc51768a.chunk.js",
+    "static/js/3.cc51768a.chunk.js.map": "/Movies-Mosh/static/js/3.cc51768a.chunk.js.map",
+    "index.html": "/Movies-Mosh/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/Movies-Mosh/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.30b11fbd.chunk.js.LICENSE.txt": "/Movies-Mosh/static/js/2.30b11fbd.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Movies-Mosh/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbb30b8a.js",
+    "static/js/2.30b11fbd.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.b00bee17.chunk.js"
+  ]
+}
